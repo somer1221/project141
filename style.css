@@ -1,0 +1,31 @@
+.heading {
+    width:100%;
+    text-align:center;
+    font-size:25px;
+    top:0;
+    padding-top:10px;
+}
+
+.heading button {
+    float:right;
+    border:1px solid white;
+}
+
+#start, #status, #restart {
+    font-size:22px;
+}
+
+.modal-dialog {
+    width:90%;
+}
+
+#footer {
+    line-height: 2;
+    background-color: gray;
+    margin:2px;
+    bottom:0;
+    position:fixed;
+    color:white;
+    width:100%;
+    text-align: center;
+}
